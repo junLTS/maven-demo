@@ -6,6 +6,7 @@ public class hello {
         System.out.println("hello github!");
         System.out.println("master test!");
         System.out.println("hot-fix test");
+        System.out.println("pull test");
     }
 
     public String hello(String name ){
